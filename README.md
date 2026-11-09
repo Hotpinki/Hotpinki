@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@Danpinki/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Anton-dev3306"  /></a>
 <a href="https://www.linkedin.com/in/daniel-moreno-43b427173/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
-<a href = "dm172607@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
+<a href = "dm172607@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dm172607"  /></a>
   </p>
 <br>
 <h1 align=center>Sobre mi 😃</h1>
@@ -60,6 +60,4 @@
 </div>
 
 ------
-[Anton-dev3306](https://github.com/Anton-dev3306)
-
-Last Edited on: 12/07/2025
+[Hotpinki](https://github.com/Hotpinki)
