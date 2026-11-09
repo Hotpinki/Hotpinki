@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Daniel Moreno o también Hotpinki ✨ </h1> 
+<h1 align="center">Hola 👋 soy Daniel Moreno ✨ </h1> 
 
 <p align="center">
   <a href="https://www.youtube.com/@Danpinki/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Danpinki" /></a>
@@ -11,10 +11,10 @@
 <!--Intro start-->
 
 <div align="center">
- 🎓 Estudiante de Ingeniería Mecatrónica
- 💻 Desarrollador de software para proyectos de baja - media escala
+  🎓 Estudiante de Ingeniería Mecatrónica <br>
+  💻 Desarrollador de software para proyectos de baja - media escala <br><br>
 
- 📫 Contacto: **dm172607@gmail.com** o a mi celular **0992916727**  
+  📫 Contacto: **dm172607@gmail.com** o a mi celular **0992916727**  
 </div>
 <br>
 
