@@ -33,6 +33,15 @@
 </div>
 <br>
 
+<h1 align=center>Proyectos Web 🚀</h1>
+<div align="center">
+  <p>Echa un vistazo a mi trabajo más reciente:</p>
+  <a href="https://estudio-verde-educativo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Estudio_Verde_Educativo-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="Estudio Verde Educativo" />
+  </a>
+</div>
+<br>
+
 <div align=center>
   <h1> Mis estadísticas </h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
